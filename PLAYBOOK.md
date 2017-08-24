@@ -1,4 +1,4 @@
-## COS 460/540 - Computer Networks Fall 2017
+## COS 460/540 - Computer Networks
 # Project 1: Number Guessing Server
 
 # <<YOUR NAME>>
